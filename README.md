@@ -25,6 +25,5 @@
 <p align="left">
 <a href="https://x.com/kharche_bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kverma_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhushankharche7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="verma-kunal" height="30" width="40" /></a>
-<a href="https://vikrant15.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vikrant15" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bhushankharche5821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vikrant-raut" height="30" width="40" /></a>
 </p>
